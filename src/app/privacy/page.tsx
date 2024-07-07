@@ -16,7 +16,7 @@ const Privacy = () => {
                 </p>
 
                 <p className='text-base font-regular'>
-                    fundfolio ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how your personal information is collected, used, and disclosed by fundfolio.
+                    fundfolio {'("we", "our", or "us")'} is committed to protecting your privacy. This Privacy Policy explains how your personal information is collected, used, and disclosed by fundfolio.
                 </p>
 
                 <div>
