@@ -1,4 +1,6 @@
-export const FAQS = [
+const PLAY_STORE_LINK = "https://play.google.com/store/apps/details?id=com.fundfolio"
+
+const FAQS = [
     {
         id: 1,
         question: "What is fundfolio?",
@@ -40,3 +42,6 @@ export const FAQS = [
         answer: "If you have any questions or concerns, please email us at mohmdfayisk@gmail.com. We aim to respond within 24 hours."
     }
 ]
+
+
+export { PLAY_STORE_LINK, FAQS }
